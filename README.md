@@ -41,8 +41,7 @@ Logistics database project - десктопное приложение для в
 
 Последний шаг перед сборкой программы - создать базу данных. Схема базы:
 
-<p align="center"><img src="https://i.ibb.co/xztvwQs/image.png" width="600">
-</p>
+<a href="https://ibb.co/9ypWXNK"><img src="https://i.ibb.co/Dw1QXtc/2023-08-10-000023.png" alt="2023-08-10-000023" border="0"></a>
 
 Не забудьте запустить сервер MySQL (пропишите mysqld в терминал). Поменяйте данные для подключения к бд на свои (mainwindow.cpp), соберите проект и пользуйтесь.
 
