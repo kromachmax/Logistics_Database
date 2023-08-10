@@ -56,11 +56,13 @@ Logistics database project - десктопное приложение для в
 
 ## Demonstration
 
-
-
-
-
 Видео демонстрации работы:
+
+
+
+https://github.com/kromachmax/Logistics_Database/assets/115004593/122fc0e9-a535-464f-a57f-a1ee8a1f0250
+
+
 
 
 ## Documentation
