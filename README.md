@@ -56,9 +56,12 @@ Logistics database project - десктопное приложение для в
 
 ## Demonstration
 
+
+
+
+
 Видео демонстрации работы:
 
-https://github.com/tak172/Logistics_database_project/assets/120005445/37071aa0-8ad6-43d9-9414-a12967fae6f4
 
 ## Documentation
 
